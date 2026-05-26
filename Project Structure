@@ -1,0 +1,6 @@
+neuralforge/
+├── core/           # Core neural network components
+├── utils/          # Utility functions and helpers
+├── examples/       # Jupyter notebooks and examples
+├── tests/          # Comprehensive test suite
+└── docs/           # Detailed documentation
