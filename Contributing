@@ -1,0 +1,33 @@
+We love contributions! Please read our .
+
+📄 License
+
+This project is licensed under the MIT License - see file.
+
+🔗 Connect
+
+Author: Leandro (leandro4979-hub)
+### **PART 3: Profile-Level Enhancements**
+**1. Create a PROFILE README (`README.md` in a special repository):**
+- Create a repository named **exactly `leandro4979-hub`** (same as your username)
+- GitHub will automatically display this at the top of your profile
+- Add:
+  - Professional introduction
+  - Skills matrix
+  - GitHub stats
+  - Featured projects
+  - Contact info
+**2. Pin Your Best Repositories:**
+- Go to your profile → "Customize your pins"
+- Pin 6 repositories that showcase your skills
+- Include `neuralforge` as your flagship project
+**3. Contribution Graph Optimization:**
+- Maintain consistent commits (even small ones)
+- Use GitHub Actions for automated contributions
+- Create meaningful repositories, not just forks
+**4. GitHub Profile Badges & Metrics:**
+Add these to your profile README:
+```markdown
+![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandro4979-hub&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leandro4979-hub&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=leandro4979-hub&theme=radical)
