@@ -1,0 +1,20 @@
+# 🧠 NeuralForge
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![GitHub Stars](https://img.shields.io/github/stars/leandro4979-hub/neuralforge)
+![GitHub Issues](https://img.shields.io/github/issues/leandro4979-hub/neuralforge)
+**A cutting-edge toolkit for neural network experimentation and deployment**
+## ✨ Features
+- 🚀 **High-performance neural network implementations**
+- 🔧 **Modular architecture** - Mix and match components
+- 📊 **Built-in visualization tools** for model insights
+- ⚡ **GPU acceleration** support (CUDA compatible)
+- 📦 **Easy pip installation** - `pip install neuralforge`
+## 🚀 Quick Start
+```bash
+# Installation
+pip install neuralforge
+# Basic usage
+import neuralforge as nf
+model = nf.create_model('transformer', layers=12)
+model.train(your_data)
