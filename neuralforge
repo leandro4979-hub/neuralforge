@@ -1,0 +1,17 @@
+neuralforge/
+├── README.md              # ✨ STAR OF THE SHOW
+├── .github/
+│   ├── workflows/         # CI/CD pipelines
+│   ├── ISSUE_TEMPLATE/    # Structured issue templates
+│   └── PULL_REQUEST_TEMPLATE.md
+├── docs/
+│   ├── CONTRIBUTING.md
+│   ├── CODE_OF_CONDUCT.md
+│   └── API_REFERENCE.md
+├── src/
+├── tests/
+├── examples/
+├── requirements.txt       # or package.json, pyproject.toml, etc.
+├── LICENSE
+├── .gitignore
+└── .github/              # GitHub-specific configurations
