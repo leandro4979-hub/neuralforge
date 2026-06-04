@@ -1,0 +1,4 @@
+git add requirements.txt
+git commit -m "Add requirements.txt for dependencies"
+git branch --show-current   # to confirm the branch name (e.g., main)
+git push origin main        # or replace 'main' with the branch name
